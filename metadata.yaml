@@ -1,0 +1,37 @@
+_repo: The-Trained-MemoryBusiness-Efficiency_17829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hilton, Warren
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '5222'
+    url: http://www.gutenberg.org/2009/agents/5222
+description: Title; Contents; Chapter I The Elements Of Memory; Chapter Ii The Mental
+  Treasure Vault And Its Lost Combination; Chapter Iii The Mechanism Of Recall; Chapter
+  Iv The Laws Of Recall; Chapter V The Science Of Forgetting; Chapter Vi The Fallacy
+  Of Most Memory Systems; Chapter Vii A Scientific Memory System For Business Success.
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Applied'
+- !lcc 'BF'
+- !lcsh 'Memory'
+title: 'The Trained Memory
+
+  Being the Fourth of a Series of Twelve Volumes on the
+
+  Applications of Psychology to the Problems of Personal and
+
+  Business Efficiency'
+url: http://www.gutenberg.org/ebooks/17829
